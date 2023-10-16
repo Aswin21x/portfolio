@@ -1,0 +1,148 @@
+/* styles.css */
+
+li{
+    font-style: italic;
+    
+}
+ul{
+    margin-left: 2%;
+    font-size: small;
+    
+}
+.hihi {
+    color: blue;
+    padding: 0.15px;
+    background: gold;
+    display: inline-block;
+    border-radius: 5px;
+    line-height: 32px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+span {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gold;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+}
+#about {
+    background-color: rgb(176, 176, 227);
+}
+
+#sk {
+    margin-bottom: 2em;
+    background-color: aqua;
+    
+}
+
+
+#edu {
+
+background-color: bisque;
+
+}
+
+
+h1, h2, h3 {
+    color: #333;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+.contact {
+    background-color: rgb(244, 231, 46);
+    padding: 20px;
+    text-align: center;
+}
+
+.contact h2 {
+    color: #333;
+}
+
+.contact p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+
+.hehe {
+    background-color: rgb(236, 149, 232);
+    height: auto;
+    width: auto;
+    
+    padding: 3%;
+    margin: auto;
+    
+    
+}
+
+
+
+.hehe2 {
+    background-color: rgb(233, 178, 216);
+    height: auto;
+    width: auto;
+    
+    padding: 3%;
+    margin: auto;
+
+}
+
+
+.hehe3 {
+    background-color: rgb(235, 170, 216);
+    height: auto;
+    width: auto;
+    
+    padding: 3%;
+    margin: auto;
+    
+}
+
+button {
+background-color: rgb(236, 149, 232);
+
+}
